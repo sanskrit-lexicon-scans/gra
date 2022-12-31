@@ -1,0 +1,1396 @@
+
+gra_beyer.pdf  Download from Bayerisch Stattlib
+  https://opacplus.bsb-muenchen.de/title/BV005081970
+gra_beyer_pages
+  979 pages extracted using Adobe Acrobat 9
+file name
+  example 'gra_bayer 81.pdf'
+  form 'gra_bayer N.pdf'  Where N is digit sequence, 1 to 979
+
+pdffiles:
+https://github.com/sanskrit-lexicon/csl-websanlexicon/blob/master/v02/distinctfiles/gra/web/webtc/pdffiles.txt
+893 lines total : (+ 888 5) = 893 beyer
+a. 888 pages
+(2*x + 1) x = 0-887)  (1+ (* 2 887))   888 pages
+0001:pg_0001.pdf
+0003:pg_0003.pdf
+....
+1775:pg_1775.pdf
+URL:
+https://sanskrit-lexicon.uni-koeln.de/scans/GRAScan/GRAScanpdf/pg_0123.pdf
+----------------
+b. 5 pages
+t0001:tit_0001.pdf
+t0002:tit_0002.pdf
+t0003:tit_0003.pdf
+t0004:tit_0004.pdf
+t0005:tit_0005.pdf
+---------------
+URL:
+https://sanskrit-lexicon.uni-koeln.de/scans/GRAScan/GRAScanpdf/tit_0001.pdf
+=========================================================================
+contents at  https://github.com/sanskrit-lexicon-scans/gra/tree/gh-pages/pdfpages
+pg_0001.pdf , pg_0003.pdf, ..., pg_1775.pdf
+tit_0001.pdf ... tit_0005.pdf
+
+(/ 1774 2) 887 + 1 = 888 pages + 5 pages = 893 pagers
+
+
+=========================================================================
+contents at cologne in scans/GRAScan/GRAScanpdf
+893 pdf files
+same as at sanskrit-lexicon-scans/GRA in pdfpages directory
+=========================================================================
+Correspondence Beyer-pdffiles  STEP 1 manual
+1 : None =  Bayerische StaatsBibliothek  (Bavarian State Library)
+2 : None = Front of Book?
+3 : None = Library card?
+4 : None = Blank
+5 : None = Blank
+6 : None = Title page  (1873 vs. 1875) Not quite the same!
+7 : None = Blank
+8 : None : PROSPECT. In Verlage von F. A. Brockhaus in Leipzig erscheint
+                     Published by F. A. Brockhaus in Leipzig
+9  : None : continue,  Signed F. A. Brockhaus  Leipsiz, im December 1872.
+10 : None : WORTERBUCH ZUM RIG-VEDA
+11 : None : Blank
+12 : tit_0001.pdf  Title page (1873 on both)
+13 : None : BIBLIOTHECA REGIA MONACENSIS (THE ROYAL LIBRARY OF MONACO)
+14 : tit_0002.pdf  Vorwort, 1.
+15 : tit_0003.pdf  Vorwort, 2.
+16 : tit_0004.pdf  Vorwort, 3.
+17 : tit_0005.pdf  Vorwort, 4.
+18 : pg_0001.pdf  Reihenfolge der Buchstaben (Order of letters), pages 1, 2
+19 : pg_0003.pdf  pages 3, 4
+... (f 19 29 3)
+29 : pg_0023.pdf  pages 23, 24
+39 : pg_0043.pdf  43, 44
+40 : pg_0045.pdf  45,4 6
+41 : DUP 39   43, 44)
+42 : DUP 40   45, 46
+43 : pg_0047.pdf  47, 48
+...
+53 : pg_0067.pdf  67, 68
+63 : pg_0087.pdf  87, 88 
+83 : pg_0127.pdf  127, 128
+100 : pg_161.pdf  161, 162 
+...
+110 : pg_0181.pdf  181, 182
+111 : DUP 109 (179, 180)
+112 : DUP 110 (181, 182)
+113 : pg_0183.pdf  183, 184
+114 : pg_0185.pdf  185, 186
+...
+120 : pg_0197.pdf  197, 198
+...
+150 : pg_0257.pdf  257, 258
+...
+170 : pg_0297.pdf 297, 298
+177 : pg_0311.pdf 311, 312
+178 : pg_0313.pdf 313, 314
+179 : DUP 177 311, 312
+180 : DUP 178 313, 314
+181 : pg_0315.pdf 315, 316
+...
+185 : pg_0323.pdf 323, 324
+...
+190 : pg_0333.pdf 333, 334
+...
+195 : pg_0343.pdf 343, 344
+...
+200 : pg_0353.pdf 353, 354
+...
+250 : pg_0453.pdf 453, 454
+...
+275 : pg_0503.pdf 503, 504
+...
+285 : pg_0523.pdf 523, 524
+...
+288 : pg_0529.pdf 529, 530
+289 : DUP 287 527, 528
+290 : DUP 288 529, 530
+291 : pg_0531.pdf 531, 532
+...
+300 : pg_0549.pdf 549, 550
+...
+350 : pg_0649.pdf 649, 650
+...
+360 : pg_0669.pdf 669, 670
+...
+364 : pg_0677.pdf 677, 678
+365 : DUP 363  675, 676
+366 : DUP 364  677, 678
+367 : pg_0679.pdf 679, 680
+...
+370 : pg_0685.pdf 685, 686
+...
+380 : pg_0705.pdf 705, 706
+381 : DUP 379 703, 704
+382 : DUP 380 705, 706
+383 : pg_0707.pdf 707, 708
+...
+390 : pg_0721.pdf 721, 722
+...
+395 : pg_0731.pdf 731, 732
+396 : pg_0733.pdf 733, 734
+397 : DUP 395 731, 732
+398 : DUP 396 733, 734
+399 : pg_0735.pdf 735, 376
+400 : pg_0737.pdf  735, 736
+...
+410 : pg_0757.pdf 757, 758
+...
+415 : pg_0767.pdf 767, 768
+416 : pg_0769.pdf 769, 770
+417 : DUP 415  767, 768
+418 : DUP 416  769, 770
+419 : pg_0771.pdf 771, 772
+420 : pg_0773.pdf 773, 774
+...
+450 : pg_0833.pdf 833, 834
+451 : DUP 449  831, 832
+452 : DUP 450  833, 834
+453 : pg_0835.pdf 835, 836
+...
+456 : pg_0841.pdf 841, 842
+457 : DUP 455 839, 840
+458 : DUP 456 841, 842
+459 : pg_0843.pdf 843, 844
+460 : pg_0845.pdf 845, 846
+...
+470 : pg_0865.pdf 865, 866
+...
+480 : pg_0885.pdf 885, 886
+...
+490 : pg_0905.pdf 905, 906
+...
+500 : pg_0925.pdf 925, 926
+...
+520 : pg_0965.pdf 965, 966
+...
+525 : pg_0975.pdf 975, 976
+526 : pg_0977.pdf 977, 978
+527 : pg_0979.pdf 979, 980
+528 : pg_0981.pdf 981, 982
+529 : DUP 527 979, 980
+530 : DUP 528 981, 982
+531 : pg_0983.pdf 983, 984
+...
+535 : pg_0991.pdf 991, 992
+...
+540 : pg_1001.pdf 1001, 1002
+...
+550 : pg_1021.pdf 1021, 1022
+...
+575 : pg_1071.pdf 1071, 1072
+...
+580 : pg_1081.pdf 1081, 1082
+...
+585 : pg_1091.pdf 1091, 1092
+...
+589 : pg_1099.pdf 1099, 1100
+590 : pg_1101.pdf 1101, 1102  [Print error 1001, 1002]
+...
+600 : pg_1121.pdf 1121, 1122
+...
+610 : pg_1141.pdf 1141, 1142
+...
+620 : pg_1161.pdf 1161, 1162
+621 : pg_1163.pdf 1163, 1164
+622 : pg_1165.pdf 1165, 1166
+623 : DUP 621 1163, 1164
+624 : DUP 622 1165, 1166
+625 : DUP 621 1163, 1164  DOUBLE DUP!
+626 : DUP 622 1165, 1166
+627 : DUP 621 1163, 1164 TRIPLE DUP
+628 : DUP 622 1165, 1166
+629 : DUP 609 1139, 1140
+630 : DUP 610 1141, 1142
+631 : DUP 611 1143, 1144
+632 : DUP 612 1145, 1146
+633 : DUP 613 1147, 1148
+634 : DUP 614 1149, 1150
+635 : DUP 615 1151, 1152
+636 : DUP 616 1153, 1154
+637 : DUP 617 1155, 1156
+638 : DUP 618 1157, 1158
+639 : DUP 619 1159, 1160
+640 : DUP 620 1161, 1162
+641 : DUP 621 1163, 1164
+642 : DUP 622 1165, 1166
+643 : pg_1167.pdf 1167 1168
+644 : pg_1169.pdf 1169, 1170
+645 : pg_1171.pdf 1171, 1172
+...
+650 : pg_1181.pdf 1181, 1182
+...
+700 : pg_1281.pdf 1281,1282
+...
+750 : pg_1381.pdf 1381,1382
+...
+800 : pg_1481.pdf 1481, 1482
+...
+825 : pg_1531.pdf 1531, 1532
+...
+835 : pg_1551.pdf 1551, 1552
+...
+840 : pg_1561.pdf 1561, 1562
+841 : DUP 839 1559, 1560
+842 : DUP 840 1561, 1562
+843 : pg_1563.pdf 1563, 1564
+844 : pg_1565.pdf 1565, 1566
+845 : pg_1567.pdf 1567, 1568
+...
+850 : pg_1577.pdf 1577, 1578
+851 : pg_1579.pdf 1579, 1580
+852 : pg_1581.pdf 1581, 1582
+853 : pg_1583.pdf 1583, 1584
+854 : pg_1585.pdf 1585, 1586
+855 : DUP 853  1583, 1584
+856 : DUP 854  1585, 1586
+857 : pg_1587.pdf 1587, 1588
+...
+860 : pg_1593.pdf 1593, 1594
+...
+865 : pg_1603.pdf 1603, 1604
+...
+895 : pg_1663.pdf 1663, 1664
+...
+910 : pg_1693.pdf 1693, 1694
+...
+915 : pg_1703.pdf 1703, 1704
+...
+934 : pg_1741.pdf  1741, 1742 Nachtrage und Verbesserungen
+...
+940 : pg_1753.pdf 1753, 1754
+...
+945 : pg_1763.pdf 1763, 1764
+...
+950 : pg_1773.pdf 1773, 1774
+951 : pg_1775.pdf 1775, 1776
+-------------------------------------------------
+From here on Bayer pages 952 - 979 are NOT in Cologne.
+i.e., there is no pg_1777.pdf, etc.
+But they are to be in the NEW Cologne images
+First we have to identify the duplicates in Bayer 952-979
+and how the non-duplicates should be renamed
+
+952 : DUP 944 1761, 1762
+953 : DUP 933 1739, 1749
+954 : DUP 934 1741, 1742
+955 : DUP 935 1743, 1744
+956 : DUP 936 1745, 1746
+957 : DUP 937 1747, 1748 end of VN, begin Nachtrage(?)
+958 : DUP 938 1749, 1750
+959 : DUP 939 1751, 1752
+960 : DUP 940 1753, 1754
+961 : DUP 941 1755, 1756
+962 : DUP 942 1757, 1758
+963 : DUP 943 1759, 1760
+964 : DUP 944 1761, 1762
+965 : DUP 945 1763, 1764
+966 : DUP 946 1765, 1766
+967 : DUP 947 1767, 1768
+968 : DUP 948 1769, 1770
+969 : DUP 949 1771, 1772
+970 : DUP 950 1773, 1774
+------------------------
+971 : DUP2 947 1767, 1768
+972 : DUP2 948 1769, 1770
+973 : DUP2 949 1771, 1772
+974 : DUP2 950 1773, 1774
+975 : DUP 951 1775, 1776 not cologne, deviations from Aufrecht's text edition page
+976 : None : blank
+977 : None : blank
+978 : None : blank
+979 : None : back cover
+---------------------------------
+Beyer pages to be unused
+': DUP' (or DUP2)  70
+': None'  16
+86 (+ 70 16) total unused
+
+Total Beyer files 979  (number of files in gra_beyer_pages directory
+Beyer pages used:
+893 (- 979 86)
+(- 142 73)
+893 Cologne pdf files
+  All Bayer files accounted for.
+=========================================================================
+Correspondence Beyer-pdffiles  STEP 2 fill in regularities
+: DUP step2
+Use Elisp function 
+(defun f (b1 b2 g1) 
+  (insert (format "\n"))
+  (setq b (1+ b1))
+  (setq g g1)
+  (while (< b b2)
+    (setq x (+ g 2))
+    (insert (format "%s : pg_%04d.pdf %d, %d INFER\n" b x x (1+ x)))
+    (setq b (1+ b))
+    (setq g (+ g 2))
+  ) ; (- 141 72)
+)
+1 : None =  Bayerische StaatsBibliothek  (Bavarian State Library)
+2 : None = Front of Book?
+3 : None = Library card?
+4 : None = Blank
+5 : None = Blank
+6 : None = Title page  (1873 vs. 1875) Not quite the same!
+7 : None = Blank
+8 : None : PROSPECT. In Verlage von F. A. Brockhaus in Leipzig erscheint
+                     Published by F. A. Brockhaus in Leipzig
+9  : None : continue,  Signed F. A. Brockhaus  Leipsiz, im December 1872.
+10 : None : WORTERBUCH ZUM RIG-VEDA
+11 : None : Blank
+12 : tit_0001.pdf  Title page (1873 on both)
+13 : None : BIBLIOTHECA REGIA MONACENSIS (THE ROYAL LIBRARY OF MONACO)
+14 : tit_0002.pdf  Vorwort, 1.
+15 : tit_0003.pdf  Vorwort, 2.
+16 : tit_0004.pdf  Vorwort, 3.
+17 : tit_0005.pdf  Vorwort, 4.
+18 : pg_0001.pdf  Reihenfolge der Buchstaben (Order of letters), pages 1, 2
+19 : pg_0003.pdf  pages 3, 4
+... (f 19 29 3)
+20 : pg_0005.pdf 5, 6 INFER
+21 : pg_0007.pdf 7, 8 INFER
+22 : pg_0009.pdf 9, 10 INFER
+23 : pg_0011.pdf 11, 12 INFER
+24 : pg_0013.pdf 13, 14 INFER
+25 : pg_0015.pdf 15, 16 INFER
+26 : pg_0017.pdf 17, 18 INFER
+27 : pg_0019.pdf 19, 20 INFER
+28 : pg_0021.pdf 21, 22 INFER
+29 : pg_0023.pdf  pages 23, 24
+...(f 29 39 23)
+30 : pg_0025.pdf 25, 26 INFER
+31 : pg_0027.pdf 27, 28 INFER
+32 : pg_0029.pdf 29, 30 INFER
+33 : pg_0031.pdf 31, 32 INFER
+34 : pg_0033.pdf 33, 34 INFER
+35 : pg_0035.pdf 35, 36 INFER
+36 : pg_0037.pdf 37, 38 INFER
+37 : pg_0039.pdf 39, 40 INFER
+38 : pg_0041.pdf 41, 42 INFER
+
+39 : pg_0043.pdf  43, 44
+40 : pg_0045.pdf  45,4 6
+41 : DUP 39   43, 44)
+42 : DUP 40   45, 46
+43 : pg_0047.pdf  47, 48
+...(f 43 53 47)
+44 : pg_0049.pdf 49, 50 INFER
+45 : pg_0051.pdf 51, 52 INFER
+46 : pg_0053.pdf 53, 54 INFER
+47 : pg_0055.pdf 55, 56 INFER
+48 : pg_0057.pdf 57, 58 INFER
+49 : pg_0059.pdf 59, 60 INFER
+50 : pg_0061.pdf 61, 62 INFER
+51 : pg_0063.pdf 63, 64 INFER
+52 : pg_0065.pdf 65, 66 INFER
+
+53 : pg_0067.pdf  67, 68
+...(f 53 63 67)
+54 : pg_0069.pdf 69, 70 INFER
+55 : pg_0071.pdf 71, 72 INFER
+56 : pg_0073.pdf 73, 74 INFER
+57 : pg_0075.pdf 75, 76 INFER
+58 : pg_0077.pdf 77, 78 INFER
+59 : pg_0079.pdf 79, 80 INFER
+60 : pg_0081.pdf 81, 82 INFER
+61 : pg_0083.pdf 83, 84 INFER
+62 : pg_0085.pdf 85, 86 INFER
+
+63 : pg_0087.pdf  87, 88
+...(f 63 83 87)
+64 : pg_0089.pdf 89, 90 INFER
+65 : pg_0091.pdf 91, 92 INFER
+66 : pg_0093.pdf 93, 94 INFER
+67 : pg_0095.pdf 95, 96 INFER
+68 : pg_0097.pdf 97, 98 INFER
+69 : pg_0099.pdf 99, 100 INFER
+70 : pg_0101.pdf 101, 102 INFER
+71 : pg_0103.pdf 103, 104 INFER
+72 : pg_0105.pdf 105, 106 INFER
+73 : pg_0107.pdf 107, 108 INFER
+74 : pg_0109.pdf 109, 110 INFER
+75 : pg_0111.pdf 111, 112 INFER
+76 : pg_0113.pdf 113, 114 INFER
+77 : pg_0115.pdf 115, 116 INFER
+78 : pg_0117.pdf 117, 118 INFER
+79 : pg_0119.pdf 119, 120 INFER
+80 : pg_0121.pdf 121, 122 INFER
+81 : pg_0123.pdf 123, 124 INFER
+82 : pg_0125.pdf 125, 126 INFER
+
+83 : pg_0127.pdf  127, 128
+...(f 83 100 127)
+84 : pg_0129.pdf 129, 130 INFER
+85 : pg_0131.pdf 131, 132 INFER
+86 : pg_0133.pdf 133, 134 INFER
+87 : pg_0135.pdf 135, 136 INFER
+88 : pg_0137.pdf 137, 138 INFER
+89 : pg_0139.pdf 139, 140 INFER
+90 : pg_0141.pdf 141, 142 INFER
+91 : pg_0143.pdf 143, 144 INFER
+92 : pg_0145.pdf 145, 146 INFER
+93 : pg_0147.pdf 147, 148 INFER
+94 : pg_0149.pdf 149, 150 INFER
+95 : pg_0151.pdf 151, 152 INFER
+96 : pg_0153.pdf 153, 154 INFER
+97 : pg_0155.pdf 155, 156 INFER
+98 : pg_0157.pdf 157, 158 INFER
+99 : pg_0159.pdf 159, 160 INFER
+
+100 : pg_161.pdf  161, 162 
+...(f 100 110 161)
+101 : pg_0163.pdf 163, 164 INFER
+102 : pg_0165.pdf 165, 166 INFER
+103 : pg_0167.pdf 167, 168 INFER
+104 : pg_0169.pdf 169, 170 INFER
+105 : pg_0171.pdf 171, 172 INFER
+106 : pg_0173.pdf 173, 174 INFER
+107 : pg_0175.pdf 175, 176 INFER
+108 : pg_0177.pdf 177, 178 INFER
+109 : pg_0179.pdf 179, 180 INFER
+
+110 : pg_0181.pdf  181, 182
+111 : DUP 109 (179, 180)
+112 : DUP 110 (181, 182)
+113 : pg_0183.pdf  183, 184
+114 : pg_0185.pdf  185, 186
+...(f 114 120 185)
+115 : pg_0187.pdf 187, 188 INFER
+116 : pg_0189.pdf 189, 190 INFER
+117 : pg_0191.pdf 191, 192 INFER
+118 : pg_0193.pdf 193, 194 INFER
+119 : pg_0195.pdf 195, 196 INFER
+
+120 : pg_0197.pdf  197, 198
+...(f 120 150 197)
+121 : pg_0199.pdf 199, 200 INFER
+122 : pg_0201.pdf 201, 202 INFER
+123 : pg_0203.pdf 203, 204 INFER
+124 : pg_0205.pdf 205, 206 INFER
+125 : pg_0207.pdf 207, 208 INFER
+126 : pg_0209.pdf 209, 210 INFER
+127 : pg_0211.pdf 211, 212 INFER
+128 : pg_0213.pdf 213, 214 INFER
+129 : pg_0215.pdf 215, 216 INFER
+130 : pg_0217.pdf 217, 218 INFER
+131 : pg_0219.pdf 219, 220 INFER
+132 : pg_0221.pdf 221, 222 INFER
+133 : pg_0223.pdf 223, 224 INFER
+134 : pg_0225.pdf 225, 226 INFER
+135 : pg_0227.pdf 227, 228 INFER
+136 : pg_0229.pdf 229, 230 INFER
+137 : pg_0231.pdf 231, 232 INFER
+138 : pg_0233.pdf 233, 234 INFER
+139 : pg_0235.pdf 235, 236 INFER
+140 : pg_0237.pdf 237, 238 INFER
+141 : pg_0239.pdf 239, 240 INFER
+142 : pg_0241.pdf 241, 242 INFER
+143 : pg_0243.pdf 243, 244 INFER
+144 : pg_0245.pdf 245, 246 INFER
+145 : pg_0247.pdf 247, 248 INFER
+146 : pg_0249.pdf 249, 250 INFER
+147 : pg_0251.pdf 251, 252 INFER
+148 : pg_0253.pdf 253, 254 INFER
+149 : pg_0255.pdf 255, 256 INFER
+
+150 : pg_0257.pdf  257, 258
+...(f 150 170 257)
+151 : pg_0259.pdf 259, 260 INFER
+152 : pg_0261.pdf 261, 262 INFER
+153 : pg_0263.pdf 263, 264 INFER
+154 : pg_0265.pdf 265, 266 INFER
+155 : pg_0267.pdf 267, 268 INFER
+156 : pg_0269.pdf 269, 270 INFER
+157 : pg_0271.pdf 271, 272 INFER
+158 : pg_0273.pdf 273, 274 INFER
+159 : pg_0275.pdf 275, 276 INFER
+160 : pg_0277.pdf 277, 278 INFER
+161 : pg_0279.pdf 279, 280 INFER
+162 : pg_0281.pdf 281, 282 INFER
+163 : pg_0283.pdf 283, 284 INFER
+164 : pg_0285.pdf 285, 286 INFER
+165 : pg_0287.pdf 287, 288 INFER
+166 : pg_0289.pdf 289, 290 INFER
+167 : pg_0291.pdf 291, 292 INFER
+168 : pg_0293.pdf 293, 294 INFER
+169 : pg_0295.pdf 295, 296 INFER
+
+170 : pg_0297.pdf 297, 298
+...(f 170 177 297)
+171 : pg_0299.pdf 299, 300 INFER
+172 : pg_0301.pdf 301, 302 INFER
+173 : pg_0303.pdf 303, 304 INFER
+174 : pg_0305.pdf 305, 306 INFER
+175 : pg_0307.pdf 307, 308 INFER
+176 : pg_0309.pdf 309, 310 INFER
+
+177 : pg_0311.pdf 311, 312
+178 : pg_0313.pdf 313, 314
+179 : DUP 177 311, 312
+180 : DUP 178 313, 314
+181 : pg_0315.pdf 315, 316
+...(f 181 185 315)
+182 : pg_0317.pdf 317, 318 INFER
+183 : pg_0319.pdf 319, 320 INFER
+184 : pg_0321.pdf 321, 322 INFER
+
+185 : pg_0323.pdf 323, 324
+...(f 185 190 323)
+186 : pg_0325.pdf 325, 326 INFER
+187 : pg_0327.pdf 327, 328 INFER
+188 : pg_0329.pdf 329, 330 INFER
+189 : pg_0331.pdf 331, 332 INFER
+
+190 : pg_0333.pdf 333, 334
+...(f 190 195 333)
+191 : pg_0335.pdf 335, 336 INFER
+192 : pg_0337.pdf 337, 338 INFER
+193 : pg_0339.pdf 339, 340 INFER
+194 : pg_0341.pdf 341, 342 INFER
+
+195 : pg_0343.pdf 343, 344
+...(f 195 200 343)
+196 : pg_0345.pdf 345, 346 INFER
+197 : pg_0347.pdf 347, 348 INFER
+198 : pg_0349.pdf 349, 350 INFER
+199 : pg_0351.pdf 351, 352 INFER
+
+200 : pg_0353.pdf 353, 354
+...(f 200 250 353)
+201 : pg_0355.pdf 355, 356 INFER
+202 : pg_0357.pdf 357, 358 INFER
+203 : pg_0359.pdf 359, 360 INFER
+204 : pg_0361.pdf 361, 362 INFER
+205 : pg_0363.pdf 363, 364 INFER
+206 : pg_0365.pdf 365, 366 INFER
+207 : pg_0367.pdf 367, 368 INFER
+208 : pg_0369.pdf 369, 370 INFER
+209 : pg_0371.pdf 371, 372 INFER
+210 : pg_0373.pdf 373, 374 INFER
+211 : pg_0375.pdf 375, 376 INFER
+212 : pg_0377.pdf 377, 378 INFER
+213 : pg_0379.pdf 379, 380 INFER
+214 : pg_0381.pdf 381, 382 INFER
+215 : pg_0383.pdf 383, 384 INFER
+216 : pg_0385.pdf 385, 386 INFER
+217 : pg_0387.pdf 387, 388 INFER
+218 : pg_0389.pdf 389, 390 INFER
+219 : pg_0391.pdf 391, 392 INFER
+220 : pg_0393.pdf 393, 394 INFER
+221 : pg_0395.pdf 395, 396 INFER
+222 : pg_0397.pdf 397, 398 INFER
+223 : pg_0399.pdf 399, 400 INFER
+224 : pg_0401.pdf 401, 402 INFER
+225 : pg_0403.pdf 403, 404 INFER
+226 : pg_0405.pdf 405, 406 INFER
+227 : pg_0407.pdf 407, 408 INFER
+228 : pg_0409.pdf 409, 410 INFER
+229 : pg_0411.pdf 411, 412 INFER
+230 : pg_0413.pdf 413, 414 INFER
+231 : pg_0415.pdf 415, 416 INFER
+232 : pg_0417.pdf 417, 418 INFER
+233 : pg_0419.pdf 419, 420 INFER
+234 : pg_0421.pdf 421, 422 INFER
+235 : pg_0423.pdf 423, 424 INFER
+236 : pg_0425.pdf 425, 426 INFER
+237 : pg_0427.pdf 427, 428 INFER
+238 : pg_0429.pdf 429, 430 INFER
+239 : pg_0431.pdf 431, 432 INFER
+240 : pg_0433.pdf 433, 434 INFER
+241 : pg_0435.pdf 435, 436 INFER
+242 : pg_0437.pdf 437, 438 INFER
+243 : pg_0439.pdf 439, 440 INFER
+244 : pg_0441.pdf 441, 442 INFER
+245 : pg_0443.pdf 443, 444 INFER
+246 : pg_0445.pdf 445, 446 INFER
+247 : pg_0447.pdf 447, 448 INFER
+248 : pg_0449.pdf 449, 450 INFER
+249 : pg_0451.pdf 451, 452 INFER
+
+250 : pg_0453.pdf 453, 454
+...(f 250 275 453)
+251 : pg_0455.pdf 455, 456 INFER
+252 : pg_0457.pdf 457, 458 INFER
+253 : pg_0459.pdf 459, 460 INFER
+254 : pg_0461.pdf 461, 462 INFER
+255 : pg_0463.pdf 463, 464 INFER
+256 : pg_0465.pdf 465, 466 INFER
+257 : pg_0467.pdf 467, 468 INFER
+258 : pg_0469.pdf 469, 470 INFER
+259 : pg_0471.pdf 471, 472 INFER
+260 : pg_0473.pdf 473, 474 INFER
+261 : pg_0475.pdf 475, 476 INFER
+262 : pg_0477.pdf 477, 478 INFER
+263 : pg_0479.pdf 479, 480 INFER
+264 : pg_0481.pdf 481, 482 INFER
+265 : pg_0483.pdf 483, 484 INFER
+266 : pg_0485.pdf 485, 486 INFER
+267 : pg_0487.pdf 487, 488 INFER
+268 : pg_0489.pdf 489, 490 INFER
+269 : pg_0491.pdf 491, 492 INFER
+270 : pg_0493.pdf 493, 494 INFER
+271 : pg_0495.pdf 495, 496 INFER
+272 : pg_0497.pdf 497, 498 INFER
+273 : pg_0499.pdf 499, 500 INFER
+274 : pg_0501.pdf 501, 502 INFER
+
+275 : pg_0503.pdf 503, 504
+... (f 275 285 503)
+276 : pg_0505.pdf 505, 506 INFER
+277 : pg_0507.pdf 507, 508 INFER
+278 : pg_0509.pdf 509, 510 INFER
+279 : pg_0511.pdf 511, 512 INFER
+280 : pg_0513.pdf 513, 514 INFER
+281 : pg_0515.pdf 515, 516 INFER
+282 : pg_0517.pdf 517, 518 INFER
+283 : pg_0519.pdf 519, 520 INFER
+284 : pg_0521.pdf 521, 522 INFER
+
+
+285 : pg_0523.pdf 523, 524
+...(f 285 288 523)
+286 : pg_0525.pdf 525, 526 INFER
+287 : pg_0527.pdf 527, 528 INFER
+
+288 : pg_0529.pdf 529, 530
+289 : DUP 287 527, 528
+290 : DUP 288 529, 530
+291 : pg_0531.pdf 531, 532
+...(f 291 300 531)
+292 : pg_0533.pdf 533, 534 INFER
+293 : pg_0535.pdf 535, 536 INFER
+294 : pg_0537.pdf 537, 538 INFER
+295 : pg_0539.pdf 539, 540 INFER
+296 : pg_0541.pdf 541, 542 INFER
+297 : pg_0543.pdf 543, 544 INFER
+298 : pg_0545.pdf 545, 546 INFER
+299 : pg_0547.pdf 547, 548 INFER
+
+300 : pg_0549.pdf 549, 550
+...(f 300 350 549)
+301 : pg_0551.pdf 551, 552 INFER
+302 : pg_0553.pdf 553, 554 INFER
+303 : pg_0555.pdf 555, 556 INFER
+304 : pg_0557.pdf 557, 558 INFER
+305 : pg_0559.pdf 559, 560 INFER
+306 : pg_0561.pdf 561, 562 INFER
+307 : pg_0563.pdf 563, 564 INFER
+308 : pg_0565.pdf 565, 566 INFER
+309 : pg_0567.pdf 567, 568 INFER
+310 : pg_0569.pdf 569, 570 INFER
+311 : pg_0571.pdf 571, 572 INFER
+312 : pg_0573.pdf 573, 574 INFER
+313 : pg_0575.pdf 575, 576 INFER
+314 : pg_0577.pdf 577, 578 INFER
+315 : pg_0579.pdf 579, 580 INFER
+316 : pg_0581.pdf 581, 582 INFER
+317 : pg_0583.pdf 583, 584 INFER
+318 : pg_0585.pdf 585, 586 INFER
+319 : pg_0587.pdf 587, 588 INFER
+320 : pg_0589.pdf 589, 590 INFER
+321 : pg_0591.pdf 591, 592 INFER
+322 : pg_0593.pdf 593, 594 INFER
+323 : pg_0595.pdf 595, 596 INFER
+324 : pg_0597.pdf 597, 598 INFER
+325 : pg_0599.pdf 599, 600 INFER
+326 : pg_0601.pdf 601, 602 INFER
+327 : pg_0603.pdf 603, 604 INFER
+328 : pg_0605.pdf 605, 606 INFER
+329 : pg_0607.pdf 607, 608 INFER
+330 : pg_0609.pdf 609, 610 INFER
+331 : pg_0611.pdf 611, 612 INFER
+332 : pg_0613.pdf 613, 614 INFER
+333 : pg_0615.pdf 615, 616 INFER
+334 : pg_0617.pdf 617, 618 INFER
+335 : pg_0619.pdf 619, 620 INFER
+336 : pg_0621.pdf 621, 622 INFER
+337 : pg_0623.pdf 623, 624 INFER
+338 : pg_0625.pdf 625, 626 INFER
+339 : pg_0627.pdf 627, 628 INFER
+340 : pg_0629.pdf 629, 630 INFER
+341 : pg_0631.pdf 631, 632 INFER
+342 : pg_0633.pdf 633, 634 INFER
+343 : pg_0635.pdf 635, 636 INFER
+344 : pg_0637.pdf 637, 638 INFER
+345 : pg_0639.pdf 639, 640 INFER
+346 : pg_0641.pdf 641, 642 INFER
+347 : pg_0643.pdf 643, 644 INFER
+348 : pg_0645.pdf 645, 646 INFER
+349 : pg_0647.pdf 647, 648 INFER
+
+350 : pg_0649.pdf 649, 650
+...(f 350 360 649)
+351 : pg_0651.pdf 651, 652 INFER
+352 : pg_0653.pdf 653, 654 INFER
+353 : pg_0655.pdf 655, 656 INFER
+354 : pg_0657.pdf 657, 658 INFER
+355 : pg_0659.pdf 659, 660 INFER
+356 : pg_0661.pdf 661, 662 INFER
+357 : pg_0663.pdf 663, 664 INFER
+358 : pg_0665.pdf 665, 666 INFER
+359 : pg_0667.pdf 667, 668 INFER
+
+360 : pg_0669.pdf 669, 670
+...(f 360 364 669)
+361 : pg_0671.pdf 671, 672 INFER
+362 : pg_0673.pdf 673, 674 INFER
+363 : pg_0675.pdf 675, 676 INFER
+
+364 : pg_0677.pdf 677, 678
+365 : DUP 363  675, 676
+366 : DUP 364  677, 678
+367 : pg_0679.pdf 679, 680
+...(f 367 379 679)
+368 : pg_0681.pdf 681, 682 INFER
+369 : pg_0683.pdf 683, 684 INFER
+370 : pg_0685.pdf 685, 686 INFER
+371 : pg_0687.pdf 687, 688 INFER
+372 : pg_0689.pdf 689, 690 INFER
+373 : pg_0691.pdf 691, 692 INFER
+374 : pg_0693.pdf 693, 694 INFER
+375 : pg_0695.pdf 695, 696 INFER
+376 : pg_0697.pdf 697, 698 INFER
+377 : pg_0699.pdf 699, 700 INFER
+378 : pg_0701.pdf 701, 702 INFER
+379 : pg_0703.pdf 703, 704
+380 : pg_0705.pdf 705, 706
+381 : DUP 379 703, 704
+382 : DUP 380 705, 706
+383 : pg_0707.pdf 707, 708
+...(f 383 390 707)
+384 : pg_0709.pdf 709, 710 INFER
+385 : pg_0711.pdf 711, 712 INFER
+386 : pg_0713.pdf 713, 714 INFER
+387 : pg_0715.pdf 715, 716 INFER
+388 : pg_0717.pdf 717, 718 INFER
+389 : pg_0719.pdf 719, 720 INFER
+
+390 : pg_0721.pdf 721, 722
+...(f 390 395 721)
+391 : pg_0723.pdf 723, 724 INFER
+392 : pg_0725.pdf 725, 726 INFER
+393 : pg_0727.pdf 727, 728 INFER
+394 : pg_0729.pdf 729, 730 INFER
+
+395 : pg_0731.pdf 731, 732
+396 : pg_0733.pdf 733, 734
+397 : DUP 395 731, 732
+398 : DUP 396 733, 734
+399 : pg_0735.pdf 735, 736
+400 : pg_0737.pdf  737, 738
+...(f 400 410 737)
+401 : pg_0739.pdf 739, 740 INFER
+402 : pg_0741.pdf 741, 742 INFER
+403 : pg_0743.pdf 743, 744 INFER
+404 : pg_0745.pdf 745, 746 INFER
+405 : pg_0747.pdf 747, 748 INFER
+406 : pg_0749.pdf 749, 750 INFER
+407 : pg_0751.pdf 751, 752 INFER
+408 : pg_0753.pdf 753, 754 INFER
+409 : pg_0755.pdf 755, 756 INFER
+
+410 : pg_0757.pdf 757, 758
+...(f 410 415 757)
+411 : pg_0759.pdf 759, 760 INFER
+412 : pg_0761.pdf 761, 762 INFER
+413 : pg_0763.pdf 763, 764 INFER
+414 : pg_0765.pdf 765, 766 INFER
+
+415 : pg_0767.pdf 767, 768
+416 : pg_0769.pdf 769, 770
+417 : DUP 415  767, 768
+418 : DUP 416  769, 770
+419 : pg_0771.pdf 771, 772
+420 : pg_0773.pdf 773, 774
+...(f 420 450 773)
+421 : pg_0775.pdf 775, 776 INFER
+422 : pg_0777.pdf 777, 778 INFER
+423 : pg_0779.pdf 779, 780 INFER
+424 : pg_0781.pdf 781, 782 INFER
+425 : pg_0783.pdf 783, 784 INFER
+426 : pg_0785.pdf 785, 786 INFER
+427 : pg_0787.pdf 787, 788 INFER
+428 : pg_0789.pdf 789, 790 INFER
+429 : pg_0791.pdf 791, 792 INFER
+430 : pg_0793.pdf 793, 794 INFER
+431 : pg_0795.pdf 795, 796 INFER
+432 : pg_0797.pdf 797, 798 INFER
+433 : pg_0799.pdf 799, 800 INFER
+434 : pg_0801.pdf 801, 802 INFER
+435 : pg_0803.pdf 803, 804 INFER
+436 : pg_0805.pdf 805, 806 INFER
+437 : pg_0807.pdf 807, 808 INFER
+438 : pg_0809.pdf 809, 810 INFER
+439 : pg_0811.pdf 811, 812 INFER
+440 : pg_0813.pdf 813, 814 INFER
+441 : pg_0815.pdf 815, 816 INFER
+442 : pg_0817.pdf 817, 818 INFER
+443 : pg_0819.pdf 819, 820 INFER
+444 : pg_0821.pdf 821, 822 INFER
+445 : pg_0823.pdf 823, 824 INFER
+446 : pg_0825.pdf 825, 826 INFER
+447 : pg_0827.pdf 827, 828 INFER
+448 : pg_0829.pdf 829, 830 INFER
+449 : pg_0831.pdf 831, 832 INFER
+
+450 : pg_0833.pdf 833, 834
+451 : DUP 449  831, 832
+452 : DUP 450  833, 834
+453 : pg_0835.pdf 835, 836
+...(f 453 456 835)
+454 : pg_0837.pdf 837, 838 INFER
+455 : pg_0839.pdf 839, 840 INFER
+
+456 : pg_0841.pdf 841, 842
+457 : DUP 455 839, 840
+458 : DUP 456 841, 842
+459 : pg_0843.pdf 843, 844
+460 : pg_0845.pdf 845, 846
+...(f 460 470 845)
+461 : pg_0847.pdf 847, 848 INFER
+462 : pg_0849.pdf 849, 850 INFER
+463 : pg_0851.pdf 851, 852 INFER
+464 : pg_0853.pdf 853, 854 INFER
+465 : pg_0855.pdf 855, 856 INFER
+466 : pg_0857.pdf 857, 858 INFER
+467 : pg_0859.pdf 859, 860 INFER
+468 : pg_0861.pdf 861, 862 INFER
+469 : pg_0863.pdf 863, 864 INFER
+
+470 : pg_0865.pdf 865, 866
+...(f 470 480 865)
+471 : pg_0867.pdf 867, 868 INFER
+472 : pg_0869.pdf 869, 870 INFER
+473 : pg_0871.pdf 871, 872 INFER
+474 : pg_0873.pdf 873, 874 INFER
+475 : pg_0875.pdf 875, 876 INFER
+476 : pg_0877.pdf 877, 878 INFER
+477 : pg_0879.pdf 879, 880 INFER
+478 : pg_0881.pdf 881, 882 INFER
+479 : pg_0883.pdf 883, 884 INFER
+
+480 : pg_0885.pdf 885, 886
+...(f 480 490 885)
+481 : pg_0887.pdf 887, 888 INFER
+482 : pg_0889.pdf 889, 890 INFER
+483 : pg_0891.pdf 891, 892 INFER
+484 : pg_0893.pdf 893, 894 INFER
+485 : pg_0895.pdf 895, 896 INFER
+486 : pg_0897.pdf 897, 898 INFER
+487 : pg_0899.pdf 899, 900 INFER
+488 : pg_0901.pdf 901, 902 INFER
+489 : pg_0903.pdf 903, 904 INFER
+
+490 : pg_0905.pdf 905, 906
+...(f 490 500 905)
+491 : pg_0907.pdf 907, 908 INFER
+492 : pg_0909.pdf 909, 910 INFER
+493 : pg_0911.pdf 911, 912 INFER
+494 : pg_0913.pdf 913, 914 INFER
+495 : pg_0915.pdf 915, 916 INFER
+496 : pg_0917.pdf 917, 918 INFER
+497 : pg_0919.pdf 919, 920 INFER
+498 : pg_0921.pdf 921, 922 INFER
+499 : pg_0923.pdf 923, 924 INFER
+
+500 : pg_0925.pdf 925, 926
+...(f 500 520 925)
+501 : pg_0927.pdf 927, 928 INFER
+502 : pg_0929.pdf 929, 930 INFER
+503 : pg_0931.pdf 931, 932 INFER
+504 : pg_0933.pdf 933, 934 INFER
+505 : pg_0935.pdf 935, 936 INFER
+506 : pg_0937.pdf 937, 938 INFER
+507 : pg_0939.pdf 939, 940 INFER
+508 : pg_0941.pdf 941, 942 INFER
+509 : pg_0943.pdf 943, 944 INFER
+510 : pg_0945.pdf 945, 946 INFER
+511 : pg_0947.pdf 947, 948 INFER
+512 : pg_0949.pdf 949, 950 INFER
+513 : pg_0951.pdf 951, 952 INFER
+514 : pg_0953.pdf 953, 954 INFER
+515 : pg_0955.pdf 955, 956 INFER
+516 : pg_0957.pdf 957, 958 INFER
+517 : pg_0959.pdf 959, 960 INFER
+518 : pg_0961.pdf 961, 962 INFER
+519 : pg_0963.pdf 963, 964 INFER
+
+520 : pg_0965.pdf 965, 966
+...(f 520 525 965)
+521 : pg_0967.pdf 967, 968 INFER
+522 : pg_0969.pdf 969, 970 INFER
+523 : pg_0971.pdf 971, 972 INFER
+524 : pg_0973.pdf 973, 974 INFER
+
+525 : pg_0975.pdf 975, 976
+526 : pg_0977.pdf 977, 978
+527 : pg_0979.pdf 979, 980
+528 : pg_0981.pdf 981, 982
+529 : DUP 527 979, 980
+530 : DUP 528 981, 982
+531 : pg_0983.pdf 983, 984
+...(f 531 535 983)
+532 : pg_0985.pdf 985, 986 INFER
+533 : pg_0987.pdf 987, 988 INFER
+534 : pg_0989.pdf 989, 990 INFER
+
+535 : pg_0991.pdf 991, 992
+...(f 535 540 991)
+536 : pg_0993.pdf 993, 994 INFER
+537 : pg_0995.pdf 995, 996 INFER
+538 : pg_0997.pdf 997, 998 INFER
+539 : pg_0999.pdf 999, 1000 INFER
+
+540 : pg_1001.pdf 1001, 1002
+...(f 540 550 1001)
+541 : pg_1003.pdf 1003, 1004 INFER
+542 : pg_1005.pdf 1005, 1006 INFER
+543 : pg_1007.pdf 1007, 1008 INFER
+544 : pg_1009.pdf 1009, 1010 INFER
+545 : pg_1011.pdf 1011, 1012 INFER
+546 : pg_1013.pdf 1013, 1014 INFER
+547 : pg_1015.pdf 1015, 1016 INFER
+548 : pg_1017.pdf 1017, 1018 INFER
+549 : pg_1019.pdf 1019, 1020 INFER
+
+550 : pg_1021.pdf 1021, 1022
+...(f 550 575 1021)
+551 : pg_1023.pdf 1023, 1024 INFER
+552 : pg_1025.pdf 1025, 1026 INFER
+553 : pg_1027.pdf 1027, 1028 INFER
+554 : pg_1029.pdf 1029, 1030 INFER
+555 : pg_1031.pdf 1031, 1032 INFER
+556 : pg_1033.pdf 1033, 1034 INFER
+557 : pg_1035.pdf 1035, 1036 INFER
+558 : pg_1037.pdf 1037, 1038 INFER
+559 : pg_1039.pdf 1039, 1040 INFER
+560 : pg_1041.pdf 1041, 1042 INFER
+561 : pg_1043.pdf 1043, 1044 INFER
+562 : pg_1045.pdf 1045, 1046 INFER
+563 : pg_1047.pdf 1047, 1048 INFER
+564 : pg_1049.pdf 1049, 1050 INFER
+565 : pg_1051.pdf 1051, 1052 INFER
+566 : pg_1053.pdf 1053, 1054 INFER
+567 : pg_1055.pdf 1055, 1056 INFER
+568 : pg_1057.pdf 1057, 1058 INFER
+569 : pg_1059.pdf 1059, 1060 INFER
+570 : pg_1061.pdf 1061, 1062 INFER
+571 : pg_1063.pdf 1063, 1064 INFER
+572 : pg_1065.pdf 1065, 1066 INFER
+573 : pg_1067.pdf 1067, 1068 INFER
+574 : pg_1069.pdf 1069, 1070 INFER
+
+575 : pg_1071.pdf 1071, 1072
+...(f 575 580 1071)
+576 : pg_1073.pdf 1073, 1074 INFER
+577 : pg_1075.pdf 1075, 1076 INFER
+578 : pg_1077.pdf 1077, 1078 INFER
+579 : pg_1079.pdf 1079, 1080 INFER
+
+580 : pg_1081.pdf 1081, 1082
+...(f 580 585 1081)
+581 : pg_1083.pdf 1083, 1084 INFER
+582 : pg_1085.pdf 1085, 1086 INFER
+583 : pg_1087.pdf 1087, 1088 INFER
+584 : pg_1089.pdf 1089, 1090 INFER
+
+585 : pg_1091.pdf 1091, 1092
+...(f 585 589 1091)
+586 : pg_1093.pdf 1093, 1094 INFER
+587 : pg_1095.pdf 1095, 1096 INFER
+588 : pg_1097.pdf 1097, 1098 INFER
+
+589 : pg_1099.pdf 1099, 1100
+590 : pg_1101.pdf 1101, 1102  [Print error 1001, 1002]
+...(f 590 600 1101)
+591 : pg_1103.pdf 1103, 1104 INFER
+592 : pg_1105.pdf 1105, 1106 INFER
+593 : pg_1107.pdf 1107, 1108 INFER
+594 : pg_1109.pdf 1109, 1110 INFER
+595 : pg_1111.pdf 1111, 1112 INFER
+596 : pg_1113.pdf 1113, 1114 INFER
+597 : pg_1115.pdf 1115, 1116 INFER
+598 : pg_1117.pdf 1117, 1118 INFER
+599 : pg_1119.pdf 1119, 1120 INFER
+
+600 : pg_1121.pdf 1121, 1122
+...(f 600 610 1121)
+601 : pg_1123.pdf 1123, 1124 INFER
+602 : pg_1125.pdf 1125, 1126 INFER
+603 : pg_1127.pdf 1127, 1128 INFER
+604 : pg_1129.pdf 1129, 1130 INFER
+605 : pg_1131.pdf 1131, 1132 INFER
+606 : pg_1133.pdf 1133, 1134 INFER
+607 : pg_1135.pdf 1135, 1136 INFER
+608 : pg_1137.pdf 1137, 1138 INFER
+609 : pg_1139.pdf 1139, 1140 INFER
+
+610 : pg_1141.pdf 1141, 1142
+...(f 610 620 1141)
+611 : pg_1143.pdf 1143, 1144 INFER
+612 : pg_1145.pdf 1145, 1146 INFER
+613 : pg_1147.pdf 1147, 1148 INFER
+614 : pg_1149.pdf 1149, 1150 INFER
+615 : pg_1151.pdf 1151, 1152 INFER
+616 : pg_1153.pdf 1153, 1154 INFER
+617 : pg_1155.pdf 1155, 1156 INFER
+618 : pg_1157.pdf 1157, 1158 INFER
+619 : pg_1159.pdf 1159, 1160 INFER
+
+620 : pg_1161.pdf 1161, 1162
+621 : pg_1163.pdf 1163, 1164
+622 : pg_1165.pdf 1165, 1166
+623 : DUP 621 1163, 1164
+624 : DUP 622 1165, 1166
+625 : DUP 621 1163, 1164  DOUBLE DUP!
+626 : DUP 622 1165, 1166
+627 : DUP 621 1163, 1164 TRIPLE DUP
+628 : DUP 622 1165, 1166
+629 : DUP 609 1139, 1140
+630 : DUP 610 1141, 1142
+631 : DUP 611 1143, 1144
+632 : DUP 612 1145, 1146
+633 : DUP 613 1147, 1148
+634 : DUP 614 1149, 1150
+635 : DUP 615 1151, 1152
+636 : DUP 616 1153, 1154
+637 : DUP 617 1155, 1156
+638 : DUP 618 1157, 1158
+639 : DUP 619 1159, 1160
+640 : DUP 620 1161, 1162
+641 : DUP 621 1163, 1164
+642 : DUP 622 1165, 1166
+643 : pg_1167.pdf 1167 1168
+644 : pg_1169.pdf 1169, 1170
+645 : pg_1171.pdf 1171, 1172
+...(f 645 650 1171)
+646 : pg_1173.pdf 1173, 1174 INFER
+647 : pg_1175.pdf 1175, 1176 INFER
+648 : pg_1177.pdf 1177, 1178 INFER
+649 : pg_1179.pdf 1179, 1180 INFER
+
+650 : pg_1181.pdf 1181, 1182
+...(f 650 700 1181)
+651 : pg_1183.pdf 1183, 1184 INFER
+652 : pg_1185.pdf 1185, 1186 INFER
+653 : pg_1187.pdf 1187, 1188 INFER
+654 : pg_1189.pdf 1189, 1190 INFER
+655 : pg_1191.pdf 1191, 1192 INFER
+656 : pg_1193.pdf 1193, 1194 INFER
+657 : pg_1195.pdf 1195, 1196 INFER
+658 : pg_1197.pdf 1197, 1198 INFER
+659 : pg_1199.pdf 1199, 1200 INFER
+660 : pg_1201.pdf 1201, 1202 INFER
+661 : pg_1203.pdf 1203, 1204 INFER
+662 : pg_1205.pdf 1205, 1206 INFER
+663 : pg_1207.pdf 1207, 1208 INFER
+664 : pg_1209.pdf 1209, 1210 INFER
+665 : pg_1211.pdf 1211, 1212 INFER
+666 : pg_1213.pdf 1213, 1214 INFER
+667 : pg_1215.pdf 1215, 1216 INFER
+668 : pg_1217.pdf 1217, 1218 INFER
+669 : pg_1219.pdf 1219, 1220 INFER
+670 : pg_1221.pdf 1221, 1222 INFER
+671 : pg_1223.pdf 1223, 1224 INFER
+672 : pg_1225.pdf 1225, 1226 INFER
+673 : pg_1227.pdf 1227, 1228 INFER
+674 : pg_1229.pdf 1229, 1230 INFER
+675 : pg_1231.pdf 1231, 1232 INFER
+676 : pg_1233.pdf 1233, 1234 INFER
+677 : pg_1235.pdf 1235, 1236 INFER
+678 : pg_1237.pdf 1237, 1238 INFER
+679 : pg_1239.pdf 1239, 1240 INFER
+680 : pg_1241.pdf 1241, 1242 INFER
+681 : pg_1243.pdf 1243, 1244 INFER
+682 : pg_1245.pdf 1245, 1246 INFER
+683 : pg_1247.pdf 1247, 1248 INFER
+684 : pg_1249.pdf 1249, 1250 INFER
+685 : pg_1251.pdf 1251, 1252 INFER
+686 : pg_1253.pdf 1253, 1254 INFER
+687 : pg_1255.pdf 1255, 1256 INFER
+688 : pg_1257.pdf 1257, 1258 INFER
+689 : pg_1259.pdf 1259, 1260 INFER
+690 : pg_1261.pdf 1261, 1262 INFER
+691 : pg_1263.pdf 1263, 1264 INFER
+692 : pg_1265.pdf 1265, 1266 INFER
+693 : pg_1267.pdf 1267, 1268 INFER
+694 : pg_1269.pdf 1269, 1270 INFER
+695 : pg_1271.pdf 1271, 1272 INFER
+696 : pg_1273.pdf 1273, 1274 INFER
+697 : pg_1275.pdf 1275, 1276 INFER
+698 : pg_1277.pdf 1277, 1278 INFER
+699 : pg_1279.pdf 1279, 1280 INFER
+
+700 : pg_1281.pdf 1281,1282
+...(f 700 750 1281)
+750 : pg_1381.pdf 1381,1382
+...(f 750 800 1381)
+751 : pg_1383.pdf 1383, 1384 INFER
+752 : pg_1385.pdf 1385, 1386 INFER
+753 : pg_1387.pdf 1387, 1388 INFER
+754 : pg_1389.pdf 1389, 1390 INFER
+755 : pg_1391.pdf 1391, 1392 INFER
+756 : pg_1393.pdf 1393, 1394 INFER
+757 : pg_1395.pdf 1395, 1396 INFER
+758 : pg_1397.pdf 1397, 1398 INFER
+759 : pg_1399.pdf 1399, 1400 INFER
+760 : pg_1401.pdf 1401, 1402 INFER
+761 : pg_1403.pdf 1403, 1404 INFER
+762 : pg_1405.pdf 1405, 1406 INFER
+763 : pg_1407.pdf 1407, 1408 INFER
+764 : pg_1409.pdf 1409, 1410 INFER
+765 : pg_1411.pdf 1411, 1412 INFER
+766 : pg_1413.pdf 1413, 1414 INFER
+767 : pg_1415.pdf 1415, 1416 INFER
+768 : pg_1417.pdf 1417, 1418 INFER
+769 : pg_1419.pdf 1419, 1420 INFER
+770 : pg_1421.pdf 1421, 1422 INFER
+771 : pg_1423.pdf 1423, 1424 INFER
+772 : pg_1425.pdf 1425, 1426 INFER
+773 : pg_1427.pdf 1427, 1428 INFER
+774 : pg_1429.pdf 1429, 1430 INFER
+775 : pg_1431.pdf 1431, 1432 INFER
+776 : pg_1433.pdf 1433, 1434 INFER
+777 : pg_1435.pdf 1435, 1436 INFER
+778 : pg_1437.pdf 1437, 1438 INFER
+779 : pg_1439.pdf 1439, 1440 INFER
+780 : pg_1441.pdf 1441, 1442 INFER
+781 : pg_1443.pdf 1443, 1444 INFER
+782 : pg_1445.pdf 1445, 1446 INFER
+783 : pg_1447.pdf 1447, 1448 INFER
+784 : pg_1449.pdf 1449, 1450 INFER
+785 : pg_1451.pdf 1451, 1452 INFER
+786 : pg_1453.pdf 1453, 1454 INFER
+787 : pg_1455.pdf 1455, 1456 INFER
+788 : pg_1457.pdf 1457, 1458 INFER
+789 : pg_1459.pdf 1459, 1460 INFER
+790 : pg_1461.pdf 1461, 1462 INFER
+791 : pg_1463.pdf 1463, 1464 INFER
+792 : pg_1465.pdf 1465, 1466 INFER
+793 : pg_1467.pdf 1467, 1468 INFER
+794 : pg_1469.pdf 1469, 1470 INFER
+795 : pg_1471.pdf 1471, 1472 INFER
+796 : pg_1473.pdf 1473, 1474 INFER
+797 : pg_1475.pdf 1475, 1476 INFER
+798 : pg_1477.pdf 1477, 1478 INFER
+799 : pg_1479.pdf 1479, 1480 INFER
+
+800 : pg_1481.pdf 1481, 1482
+...(f 800 825 1481)
+801 : pg_1483.pdf 1483, 1484 INFER
+802 : pg_1485.pdf 1485, 1486 INFER
+803 : pg_1487.pdf 1487, 1488 INFER
+804 : pg_1489.pdf 1489, 1490 INFER
+805 : pg_1491.pdf 1491, 1492 INFER
+806 : pg_1493.pdf 1493, 1494 INFER
+807 : pg_1495.pdf 1495, 1496 INFER
+808 : pg_1497.pdf 1497, 1498 INFER
+809 : pg_1499.pdf 1499, 1500 INFER
+810 : pg_1501.pdf 1501, 1502 INFER
+811 : pg_1503.pdf 1503, 1504 INFER
+812 : pg_1505.pdf 1505, 1506 INFER
+813 : pg_1507.pdf 1507, 1508 INFER
+814 : pg_1509.pdf 1509, 1510 INFER
+815 : pg_1511.pdf 1511, 1512 INFER
+816 : pg_1513.pdf 1513, 1514 INFER
+817 : pg_1515.pdf 1515, 1516 INFER
+818 : pg_1517.pdf 1517, 1518 INFER
+819 : pg_1519.pdf 1519, 1520 INFER
+820 : pg_1521.pdf 1521, 1522 INFER
+821 : pg_1523.pdf 1523, 1524 INFER
+822 : pg_1525.pdf 1525, 1526 INFER
+823 : pg_1527.pdf 1527, 1528 INFER
+824 : pg_1529.pdf 1529, 1530 INFER
+
+825 : pg_1531.pdf 1531, 1532
+...(f 825 835 1531)
+826 : pg_1533.pdf 1533, 1534 INFER
+827 : pg_1535.pdf 1535, 1536 INFER
+828 : pg_1537.pdf 1537, 1538 INFER
+829 : pg_1539.pdf 1539, 1540 INFER
+830 : pg_1541.pdf 1541, 1542 INFER
+831 : pg_1543.pdf 1543, 1544 INFER
+832 : pg_1545.pdf 1545, 1546 INFER
+833 : pg_1547.pdf 1547, 1548 INFER
+834 : pg_1549.pdf 1549, 1550 INFER
+
+835 : pg_1551.pdf 1551, 1552
+...(f 835 840 1551)
+836 : pg_1553.pdf 1553, 1554 INFER
+837 : pg_1555.pdf 1555, 1556 INFER
+838 : pg_1557.pdf 1557, 1558 INFER
+839 : pg_1559.pdf 1559, 1560 INFER
+
+840 : pg_1561.pdf 1561, 1562
+841 : DUP 839 1559, 1560
+842 : DUP 840 1561, 1562
+843 : pg_1563.pdf 1563, 1564
+844 : pg_1565.pdf 1565, 1566
+845 : pg_1567.pdf 1567, 1568
+...(f 845 850 1567)
+846 : pg_1569.pdf 1569, 1570 INFER
+847 : pg_1571.pdf 1571, 1572 INFER
+848 : pg_1573.pdf 1573, 1574 INFER
+849 : pg_1575.pdf 1575, 1576 INFER
+
+850 : pg_1577.pdf 1577, 1578
+851 : pg_1579.pdf 1579, 1580
+852 : pg_1581.pdf 1581, 1582
+853 : pg_1583.pdf 1583, 1584
+854 : pg_1585.pdf 1585, 1586
+855 : DUP 853  1583, 1584
+856 : DUP 854  1585, 1586
+857 : pg_1587.pdf 1587, 1588
+...(f 857 860 1587)
+858 : pg_1589.pdf 1589, 1590 INFER
+859 : pg_1591.pdf 1591, 1592 INFER
+
+860 : pg_1593.pdf 1593, 1594
+...(f 860 865 1593)
+861 : pg_1595.pdf 1595, 1596 INFER
+862 : pg_1597.pdf 1597, 1598 INFER
+863 : pg_1599.pdf 1599, 1600 INFER
+864 : pg_1601.pdf 1601, 1602 INFER
+
+865 : pg_1603.pdf 1603, 1604
+...(f 865 895 1603)
+866 : pg_1605.pdf 1605, 1606 INFER
+867 : pg_1607.pdf 1607, 1608 INFER
+868 : pg_1609.pdf 1609, 1610 INFER
+869 : pg_1611.pdf 1611, 1612 INFER
+870 : pg_1613.pdf 1613, 1614 INFER
+871 : pg_1615.pdf 1615, 1616 INFER
+872 : pg_1617.pdf 1617, 1618 INFER
+873 : pg_1619.pdf 1619, 1620 INFER
+874 : pg_1621.pdf 1621, 1622 INFER
+875 : pg_1623.pdf 1623, 1624 INFER
+876 : pg_1625.pdf 1625, 1626 INFER
+877 : pg_1627.pdf 1627, 1628 INFER
+878 : pg_1629.pdf 1629, 1630 INFER
+879 : pg_1631.pdf 1631, 1632 INFER
+880 : pg_1633.pdf 1633, 1634 INFER
+881 : pg_1635.pdf 1635, 1636 INFER
+882 : pg_1637.pdf 1637, 1638 INFER
+883 : pg_1639.pdf 1639, 1640 INFER
+884 : pg_1641.pdf 1641, 1642 INFER
+885 : pg_1643.pdf 1643, 1644 INFER
+886 : pg_1645.pdf 1645, 1646 INFER
+887 : pg_1647.pdf 1647, 1648 INFER
+888 : pg_1649.pdf 1649, 1650 INFER
+889 : pg_1651.pdf 1651, 1652 INFER
+890 : pg_1653.pdf 1653, 1654 INFER
+891 : pg_1655.pdf 1655, 1656 INFER
+892 : pg_1657.pdf 1657, 1658 INFER
+893 : pg_1659.pdf 1659, 1660 INFER
+894 : pg_1661.pdf 1661, 1662 INFER
+
+895 : pg_1663.pdf 1663, 1664
+...(f 895 910 1663)
+896 : pg_1665.pdf 1665, 1666 INFER
+897 : pg_1667.pdf 1667, 1668 INFER
+898 : pg_1669.pdf 1669, 1670 INFER
+899 : pg_1671.pdf 1671, 1672 INFER
+900 : pg_1673.pdf 1673, 1674 INFER
+901 : pg_1675.pdf 1675, 1676 INFER
+902 : pg_1677.pdf 1677, 1678 INFER
+903 : pg_1679.pdf 1679, 1680 INFER
+904 : pg_1681.pdf 1681, 1682 INFER
+905 : pg_1683.pdf 1683, 1684 INFER
+906 : pg_1685.pdf 1685, 1686 INFER
+907 : pg_1687.pdf 1687, 1688 INFER
+908 : pg_1689.pdf 1689, 1690 INFER
+909 : pg_1691.pdf 1691, 1692 INFER
+
+910 : pg_1693.pdf 1693, 1694
+...(f 910 915 1693)
+911 : pg_1695.pdf 1695, 1696 INFER
+912 : pg_1697.pdf 1697, 1698 INFER
+913 : pg_1699.pdf 1699, 1700 INFER
+914 : pg_1701.pdf 1701, 1702 INFER
+
+915 : pg_1703.pdf 1703, 1704
+...(f 915 934 1703)
+916 : pg_1705.pdf 1705, 1706 INFER
+917 : pg_1707.pdf 1707, 1708 INFER
+918 : pg_1709.pdf 1709, 1710 INFER
+919 : pg_1711.pdf 1711, 1712 INFER
+920 : pg_1713.pdf 1713, 1714 INFER
+921 : pg_1715.pdf 1715, 1716 INFER
+922 : pg_1717.pdf 1717, 1718 INFER
+923 : pg_1719.pdf 1719, 1720 INFER
+924 : pg_1721.pdf 1721, 1722 INFER
+925 : pg_1723.pdf 1723, 1724 INFER
+926 : pg_1725.pdf 1725, 1726 INFER
+927 : pg_1727.pdf 1727, 1728 INFER
+928 : pg_1729.pdf 1729, 1730 INFER
+929 : pg_1731.pdf 1731, 1732 INFER
+930 : pg_1733.pdf 1733, 1734 INFER
+931 : pg_1735.pdf 1735, 1736 INFER
+932 : pg_1737.pdf 1737, 1738 INFER
+933 : pg_1739.pdf 1739, 1740 INFER
+
+934 : pg_1741.pdf  1741, 1742 Nachtrage und Verbesserungen
+...(f 934 940 1741)
+935 : pg_1743.pdf 1743, 1744 INFER
+936 : pg_1745.pdf 1745, 1746 INFER
+937 : pg_1747.pdf 1747, 1748 INFER
+938 : pg_1749.pdf 1749, 1750 INFER
+939 : pg_1751.pdf 1751, 1752 INFER
+
+940 : pg_1753.pdf 1753, 1754
+...(f 940 945 1753)
+941 : pg_1755.pdf 1755, 1756 INFER
+942 : pg_1757.pdf 1757, 1758 INFER
+943 : pg_1759.pdf 1759, 1760 INFER
+944 : pg_1761.pdf 1761, 1762 INFER
+
+945 : pg_1763.pdf 1763, 1764
+...(f 945 950 1763)
+946 : pg_1765.pdf 1765, 1766 INFER
+947 : pg_1767.pdf 1767, 1768 INFER
+948 : pg_1769.pdf 1769, 1770 INFER
+949 : pg_1771.pdf 1771, 1772 INFER
+
+950 : pg_1773.pdf 1773, 1774
+951 : pg_1775.pdf 1775, 1776
+-------------------------------------------------
+From here on Bayer pages 952 - 979 are NOT in Cologne.
+i.e., there is no pg_1777.pdf, etc.
+But they are to be in the NEW Cologne images
+First we have to identify the duplicates in Bayer 952-979
+and how the non-duplicates should be renamed
+
+952 : DUP 944 1761, 1762
+953 : DUP 933 1739, 1749
+954 : DUP 934 1741, 1742
+955 : DUP 935 1743, 1744
+956 : DUP 936 1745, 1746
+957 : DUP 937 1747, 1748 end of VN, begin Nachtrage(?)
+958 : DUP 938 1749, 1750
+959 : DUP 939 1751, 1752
+960 : DUP 940 1753, 1754
+961 : DUP 941 1755, 1756
+962 : DUP 942 1757, 1758
+963 : DUP 943 1759, 1760
+964 : DUP 944 1761, 1762
+965 : DUP 945 1763, 1764
+966 : DUP 946 1765, 1766
+967 : DUP 947 1767, 1768
+968 : DUP 948 1769, 1770
+969 : DUP 949 1771, 1772
+970 : DUP 950 1773, 1774
+------------------------
+971 : DUP2 947 1767, 1768
+972 : DUP2 948 1769, 1770
+973 : DUP2 949 1771, 1772
+974 : DUP2 950 1773, 1774
+975 : DUP 1775, 1776 not cologne, deviations from Aufrecht's text edition page
+976 : None : blank
+977 : None : blank
+978 : None : blank
+979 : None : back cover
